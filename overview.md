@@ -1,6 +1,10 @@
-Got a Raspberry Pi? Great: let's get started by making sure you have all the cables and accessories before plugging them all in and logging in for the first time.
 
-- [Quick start](quickstart.md)
-- [Networking your Raspberry Pi](networking.md)
-- [Adding extra storage](storage.md)
-- [Adding audio output](audio.md)
+1. Do I need another computer to use a Raspberry Pi?
+1. My Raspberry Pi is faulty, how can I get it replaced
+1. I don't know how to setup my Raspberry Pi, where can I get some help?
+1. Where can I get older versions of the Raspbian Operating System?
+1. I've copied NOOBS to an SD card, but it gets stuck in the splash screen. What should I do?
+1. I try to copy across NOOBS it gets stuck on the colour splash screen - We would suggest that you re-flash the SD card with Raspbian.
+1. I have a Raspberry Pi 3, do I need a special power supply?
+
+
