@@ -2,7 +2,7 @@
 
 ![](cover.png)
 
-The Top 10 FAQs about the Raspberry Pi
+The top 10 FAQs about the Raspberry Pi.
 
 ## Licence
 
