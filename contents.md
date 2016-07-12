@@ -8,4 +8,3 @@
 1. [Where can I get older versions of the Raspbian operating system?](7.md)
 1. [I have a Raspberry Pi 3. Do I need a special power supply?](9.md)
 1. [My addon is not working, have I connected it correctly?](10.md)
-
