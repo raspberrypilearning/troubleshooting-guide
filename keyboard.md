@@ -1,4 +1,4 @@
-# 6. My keyboard is outputting the wrong characters!
+# My keyboard is outputting the wrong characters!
 
 Unlike American software, Raspbian (and NOOBS) defaults to UK keyboard settings. You were given the opportunity to change location settings the first time you started Raspbian, with the `raspi-config` menu.
 

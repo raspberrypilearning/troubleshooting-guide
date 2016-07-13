@@ -1,4 +1,4 @@
-1. [I don't know how to set my Raspberry Pi up. Where can I get some help?](nothing-on-screem.md)
+1. [I don't know how to set my Raspberry Pi up. Where can I get some help?](nothing-on-screen.md)
 1. [I've plugged my Raspberry Pi in, but nothing is appearing on the screen. What's wrong?](nothing-on-screen.md)
 1. [Only the red light on my Pi is on! Is it broken?](red-light.md)
 1. [Do I need another computer to use a Raspberry Pi?](another-computer.md)
