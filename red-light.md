@@ -5,4 +5,4 @@ By default, both the red light and the green light should come on when you conne
 1. Check that your SD card is inserted correctly into your Raspberry Pi.
 1. Check that your SD card contains the software required for the Raspberry Pi to boot by following our software setup guides in this help section of the website:
 
-- [Software setup guide](https://www.raspberrypi.org/learning/help-software-guide)
+- [Software setup guide](https://www.raspberrypi.org/learning/software-guide)
